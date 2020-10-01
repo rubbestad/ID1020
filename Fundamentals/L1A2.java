@@ -1,11 +1,11 @@
 package Fundamentals;
 
 /*
- *	---------------------------------------------------------------------
- * 	Implement the previous program in Java (both iterative and recursive)
- * 	using one of the ADTs suggested in Algorithms ch. 1.3
- * 	for the iterative version.
- *	---------------------------------------------------------------------
+ *  ---------------------------------------------------------------------
+ *  Implement the previous program in Java (both iterative and recursive)
+ *  using one of the ADTs suggested in Algorithms ch. 1.3
+ *  for the iterative version.
+ *  ---------------------------------------------------------------------
  */
 
 import java.util.Scanner;
