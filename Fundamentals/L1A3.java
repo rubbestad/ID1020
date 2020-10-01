@@ -1,11 +1,11 @@
 package Fundamentals;
 
 /*
- *	---------------------------------------------------------
- *	Implement a generic iterable FIFO-queue based on a
- *	double linked circular list. You should print the content
- *	of the list after each insertion/deletion of an element.
- *	---------------------------------------------------------
+ *  ---------------------------------------------------------
+ *  Implement a generic iterable FIFO-queue based on a
+ *  double linked circular list. You should print the content
+ *  of the list after each insertion/deletion of an element.
+ *  ---------------------------------------------------------
  */
 
 public class L1A3 {
