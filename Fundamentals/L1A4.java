@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /*
  *  -----------------------------------------------------
- * 	Implement a generic iterable circular linked list
+ *  Implement a generic iterable circular linked list
  *  which allows the user to insert and remove elements
  *  to/from the front and back end of the queue. 
  *  Be careful when designing the API. You should print 
